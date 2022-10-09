@@ -2,6 +2,8 @@
 
 ## [Live Site](https://fascinating-crostata-489023.netlify.app/)
 
+![Counter](https://pbs.twimg.com/media/FdslIt2WIAEgGf6?format=jpg&name=medium)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Table Of Content
